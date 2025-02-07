@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm VIKAS KUMAR</h1>
-<h3 align="center">BCA | WEB DEVELOPER</h3>
+<h1 align="center">Hi, I'm Vikas Kumar</h1>
+<h3 align="center">BCA | Web Developer</h3>
+
 </hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikaskumarx" alt="vikaskumarx" /></a> </p>
@@ -8,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kumarvikas47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumarvikas47/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ilrjzjv4ce/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ilrjzjv4ce/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/kumarvikasxhack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/kumarvikasxhack1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kumarviklgb9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kumarviklgb9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumarvikas47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarvikas47" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kumarvikasxhack1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumarvikasxhack1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/ilrjzjv4ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/ilrjzjv4ce" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kumarviklgb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarviklgb9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaskumarx&show_icons=true&locale=en&layout=compact" alt="vikaskumarx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaskumarx&show_icons=true&locale=en" alt="vikaskumarx" /></p>
-
-
