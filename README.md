@@ -2,8 +2,6 @@
 <h3 align="center">BCA | Web Developer</h3>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikaskumarx" alt="vikaskumarx" /></a> </p>
-
 </br>
 - 👨‍💻 All of my projects are available at [Github](https://github.com/vikaskumarx)
 </br>
